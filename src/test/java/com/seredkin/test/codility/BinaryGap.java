@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * Created by Anton on 25.09.2016.
  */
-public class CodilityTestBinaryGap {
+public class BinaryGap {
 
     /*Completed at 100%*/
 

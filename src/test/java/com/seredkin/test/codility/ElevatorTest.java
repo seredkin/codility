@@ -7,7 +7,7 @@ import static junit.framework.Assert.assertEquals;
 /**
  * Created by Anton on 28.09.2016.
  */
-public class ZalandoElevatorTest {
+public class ElevatorTest {
 
     @Test public void elevator() {
         int s;

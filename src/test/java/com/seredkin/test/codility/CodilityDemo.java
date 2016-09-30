@@ -16,7 +16,7 @@ import static junit.framework.TestCase.assertEquals;
 /**
  * Created by Anton on 27.09.2016.
  */
-public class ZalandoDemo {
+public class CodilityDemo {
 
     @Test public void testGrouping() {
         int[] data = new int[1_000_000];
